@@ -13,7 +13,7 @@
 
 - 🔍 &nbsp; Explore new technologies 
 - 🎓 &nbsp; Bachelors in Computer Science Engineering from Sikkim Manipal Institute of Technology, Sikkim.
-- 🏢 &nbsp; Software Engineer @ Gamma Analytics.
+- 🏢 &nbsp; Software Engineer @ Tiger Analytics.
 - ✒️ &nbsp; Learning more about Data Structures and Algorithms, Data Mining, ReactJS.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
