@@ -3,11 +3,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Node.js 
+- 💻 &nbsp; Python | Node.js | FastAPI | Django 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Selenium 
-- 🖥 &nbsp; VSCode | Linux
+- 🛢 &nbsp; MySQL | MongoDB | SQL server | Postgres
+- 🔧 &nbsp; Microsoft Azure 
+- 🖥 &nbsp; Docker | Terraform | Kubernetes
 
 <h3> 👨🏻‍💻 About Me </h3>
 
