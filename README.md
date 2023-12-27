@@ -25,5 +25,5 @@
 <a href="https://dev.to/ddb95"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-Debadatta%20Bhattacharjee-blue?style=flat-square&logo=dev.to"></a>
 <a href="https://stackoverflow.com/users/9255297/debadatta"><img alt="StackOverflow" src="https://img.shields.io/badge/Stackoverflow-Debadatta%20Bhattacharjee-blue?style=flat-square&logo=stackoverflow"></a>
 <a href="https://www.twitter.com/moharbh"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Debadatta%20Bhattacharjee-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:debadatta1995@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-debadatta1995@outlook.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:debadattabhattacharjee23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-debadattabhattacharjee23@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
