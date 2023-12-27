@@ -13,7 +13,7 @@
 
 - 🔍 &nbsp; Explore new technologies 
 - 🎓 &nbsp; Bachelors in Computer Science Engineering from Sikkim Manipal Institute of Technology, Sikkim.
-- 🏢 &nbsp; Senior Software Engineer @ Tiger Analytics.
+- 🏢 &nbsp; Lead Engineer @ Tiger Analytics.
 - ✒️ &nbsp; Learning more about DSA, Azure capabilities, and Python.
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles.
 
